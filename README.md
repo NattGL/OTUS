@@ -1,4 +1,4 @@
 # OTUS
-Homeworks
+My projects
 
 Course Machine Learning
